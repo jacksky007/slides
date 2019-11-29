@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.bad {
+  background-image: url(http://baidu.com);
+}
+
+.good {
+  background-image: url("https://cdn.poizon.com/du_app/2019/image/53769912_modelVTR-AL00model_byte56130byte_6a8106c5fe97db343eaa05700c974e36_du_android_w1080_h1080.png");
+}
